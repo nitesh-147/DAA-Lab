@@ -46,7 +46,7 @@ int main()
      cout<<"Nitesh Kumar Mehta 20051741"<<endl;
 time(&end);
 
-double time_taken=double(end-start);
+double time_taken=(double)(end-start);
 
 cout<<"\n\n Time taken by the program : "<<time_taken<<" sec"<<endl;
     return 0;

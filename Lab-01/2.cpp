@@ -74,7 +74,7 @@ int main()
 
     cout << "\nMost repeating= " << repeating(a, n) << endl;
     cout << "\n\nDuplicate = " << duplicate(a, n) << endl;
-     cout<<"Biraj Thakur 20052005"<<endl;
+     cout<<"Nitesh Kumar Mehta"<<endl;
 time(&end);
 
 double time_taken=double(end-start);

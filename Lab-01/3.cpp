@@ -54,7 +54,7 @@ int main()
 reaarange(a,n);
     cout << "\nAfter rearranging: "<< endl;
     print(a,n);
-     cout<<"Aashish Shah 20051974"<<endl;
+     cout<<"Nitesh Kumar Mehta"<<endl;
 time(&end);
 
 double time_taken=double(end-start);

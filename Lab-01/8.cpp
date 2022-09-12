@@ -36,7 +36,7 @@ int main()
     print(a,n);
 
 long long int product=1;
- for (int i = 0; i < n; i++)
+ for (int i = 0; i < n; i++)5
     {
         product*=a[i];
         

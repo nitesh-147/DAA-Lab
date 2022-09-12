@@ -33,7 +33,7 @@ int main()
     cout<<"b = "<<b<<endl;
     cout<<"c = "<<c<<endl;
 
-     cout<<"Biraj Thakur 20052005"<<endl;
+     cout<<"Nitesh kumar Mehta"<<endl;
 time(&end);
 
 double time_taken=double(end-start);
